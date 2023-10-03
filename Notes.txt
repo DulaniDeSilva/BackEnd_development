@@ -1,0 +1,83 @@
+Back end development
+
+IMPORTANT WEB SITES
+nodejs.org/api
+npm external module - npmjs.com
+
+expressjs.com
+
+
+
+top//jshint esversion:6
+
+node - express
+java- springboot
+php - cakephp
+ruby - rails
+
+NODEJS
+
+#############################
+R - READ
+E - EVALUATION
+P - PRINT
+L - LOOP
+
+clear
+.exit
+$ node
+
+#############################
+npm
+
+npm init
+
+npmjs.com
+
+
+npm install express
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
