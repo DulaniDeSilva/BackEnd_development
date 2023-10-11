@@ -1,0 +1,10 @@
+Terminal commands
+
+mkdir directoryName
+cd directoryName
+ls  | dir  => list
+pwd
+
+
+shift + alt + downkey
+

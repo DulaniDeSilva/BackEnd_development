@@ -4,6 +4,10 @@ IMPORTANT WEB SITES
 nodejs.org/api
 npm external module - npmjs.com
 
+https://nodemon.io/
+npm install –g nodemon
+
+
 expressjs.com
 
 
@@ -37,6 +41,33 @@ npmjs.com
 
 npm install express
 
+node was implemented to work js in the server
+ ###################################################
+
+express.com
+
+
+Creating a server using express: new web development always follow the process
+#mkdir express-server
+#cd express-server
+#touch server.js
+#npm init
+#code .
+
+Run the server
+node server.js 
+
+stop the server
+ctrl + C
+
+hp@DESKTOP-B24IE5S MINGW64 /f/GIT MY PROJECTS/BACKEND DEVELOPMENT/BackEnd_development/express-server (main)
+$ node server.js
+Server started on port 3000
+
+
+Now go to google and type localhost: 3000
+this gives Cannot GET 
+so we have to send the browser informaiton to display
 
 
 

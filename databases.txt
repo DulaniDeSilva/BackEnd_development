@@ -1,0 +1,10 @@
+sql 
+mysql
+relational
+
+
+nosql
+mongodb => represented in json format
+non relational
+one to many like 
+
